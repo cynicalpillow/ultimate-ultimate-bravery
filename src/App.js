@@ -11,14 +11,15 @@ class App extends React.Component {
     return (
       <div id="home-page">
         <header className="masthead d-flex">
-          <div className="container text-center my-auto">
-            <h1 className="mb-1">Ultimate ultimate bravery</h1>
-            <h3 className="mb-5" style={{color: "#eee", textShadow: "2px 2px 5px #111"}}>
-              <em>ultimate bravery for the zoomers</em>
-            </h3>
-            <a className="btn btn-primary btn-xl js-scroll-trigger" href="#/minecraft-is-better-than-fortnite">click me for tft gang shit</a>
+          <div className="container text-center">
+            <span className="text-vertical-center">
+              <h1 className="mb-1">Ultimate ultimate bravery</h1>
+              <h3 className="mb-5">
+                <em>yea</em>
+              </h3>
+              <a className="btn btn-primary btn-xl js-scroll-trigger" href="#/minecraft-is-better-than-fortnite">click me for tft gang shit</a>
+            </span>
           </div>
-          <div className="overlay"></div>
         </header>
       </div>
     );

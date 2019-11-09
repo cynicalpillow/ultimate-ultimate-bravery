@@ -17,7 +17,7 @@ class UltimateBravery extends React.Component {
       <div style={{textAlign: "center"}}>
         <div id="google-slides">
           <div id="live-speech">
-            <p>{this.state.transcript}</p>
+            <p>pog</p>
           </div>
         </div>
       </div>
