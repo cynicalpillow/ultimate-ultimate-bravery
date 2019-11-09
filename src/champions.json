@@ -1,0 +1,122 @@
+{
+	"Long Hair": {
+		"champions": [
+			"Taric",
+			"Vayne",
+			"Janna",
+			"Sivir",
+			"Yasuo",
+			"Zyra",
+			"Olaf"
+		]
+	},
+	"Bald": {
+		"champions": [
+			"Lux",
+			"Braum",
+			"Singed"
+		]
+	},
+	"Helmet Squad": {
+		"champions": [
+			"Malzahar",
+			"Sion",
+			"Yorick",
+			"Syndra",
+			"Olaf",
+			"Azir",
+			"Khazix",
+			"Aatrox",
+			"Master Yi"
+		]
+	},
+	"Trees": {
+		"champions": [
+			"Ivern",
+			"Maokai"
+		]
+	},
+	"Animal Kingdom": {
+		"champions": [
+			"Warwick",
+			"Nasus",
+			"Renekton",
+			"Twitch",
+			"Voli",
+			"Skarner",
+			"Khazix",
+			"Azir"
+		]
+	},
+	"Birds": {
+		"champions": [
+			"Azir"
+		]
+	},
+	"Beards/ moooostash": {
+		"champions": [
+			"Braum",
+			"Ivern",
+			"Ornn",
+			"Olaf",
+			"Lux"
+		]
+	},
+	"Hookers": {
+		"champions": [
+			"Nautalus",
+			"Thresh"
+		]
+	},
+	"Ya cant see me": {
+		"champions": [
+			"Zed",
+			"Singed",
+			"Master Yi",
+			"Jax",
+			"Syndra",
+			"Nautalus",
+			"Malzahar"
+		]
+	},
+	"Cheap Bois": {
+		"champions": [
+			"Diana",
+			"Ivern",
+			"Kogmaw",
+			"Moakai",
+			"Nasus",
+			"Ornn",
+			"Renekton",
+			"Taliyah",
+			"Vayne",
+			"Valdamir",
+			"Warwick",
+			"Zyra"
+		]
+	},
+	"Im good": {
+		"champions": [
+			"Ez"
+		]
+	},
+	"Boomer Aang": {
+		"champions": [
+			"Lux"
+		]
+	},
+	"Then the Fire Nation Attacked": {
+		"champions": [
+			"Annie",
+			"Yassuo",
+			"Taliyah",
+			"Syndra"
+		]
+	},
+	"Metalbenders": {
+		"champions": [
+			"Reksai",
+			"Nocturne"
+		]
+	}
+}
