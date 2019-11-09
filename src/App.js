@@ -12,13 +12,12 @@ class App extends React.Component {
       <div id="home-page">
         <header className="masthead d-flex">
           <div className="container text-center">
-            <span className="text-vertical-center">
-              <h1 className="mb-1">Ultimate ultimate bravery</h1>
-              <h3 className="mb-5">
-                <em>yea</em>
-              </h3>
-              <a className="btn btn-primary btn-xl js-scroll-trigger" href="#/minecraft-is-better-than-fortnite">click me for tft gang shit</a>
-            </span>
+            <div className="vertical-center">
+              <div className="inner">
+                <h1 className="mb-1">Ultimate ultimate bravery</h1>
+                <a className="btn-primary btn-xl js-scroll-trigger" href="#/minecraft-is-better-than-fortnite">enter the rift</a>
+              </div>
+            </div>
           </div>
         </header>
       </div>

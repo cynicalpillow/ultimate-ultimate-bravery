@@ -9,22 +9,32 @@ html {
 }
 
 body {
-  font-family: 'Source Sans Pro';
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .container {
-  display: inline-block;
-  width: 100%;
+  display: table;
+  position: absolute;
+  top: 0;
+  left: 0;
   height: 100%;
+  width: 100%;
+}
+
+.vertical-center {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.inner {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  /*whatever width you want*/
 }
 
 .text-center {
   text-align: center;
-}
-
-.text-vertical-center {
-  display: inline-block;
-  vertical-align: middle;
 }
 
 #home-page {
@@ -36,7 +46,14 @@ body {
   }
   .masthead h1 {
     font-size: 3.5rem;
-    color: #222;
+		-webkit-text-stroke: 1px black;
+		 color: white;
+		 text-shadow:
+				 3px 3px 0 #000,
+			 -1px -1px 0 #000,  
+				1px -1px 0 #000,
+				-1px 1px 0 #000,
+				 1px 1px 0 #000;
   }
 }
 
@@ -81,15 +98,22 @@ a:hover, a:focus, a:active {
   color: #000;
 }
 
-.btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
-  color: #fff !important;
+.btn-primary { 
+  border-color: #000 !important;
+	border-style: solid;
+	border-width: 2px;
+  color: #000 !important;
+	padding: 15px;
+	text-decoration: none;
+	border-radius: 15px;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+	color: white;
+	border-color: #000 !important;
+	border-style: solid;
+	border-width: 2px;
   background-color: #155d74 !important;
-  border-color: #155d74 !important;
 }
 
 .btn-secondary {
@@ -105,10 +129,4 @@ a:hover, a:focus, a:active {
 
 .btn-dark {
   color: #fff !important;
-}
-
-.btn {
-  -webkit-box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
-  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
-  font-weight: 700;
 }
