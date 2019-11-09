@@ -19,7 +19,7 @@ class App extends React.Component {
             <div className="vertical-center">
               <div className="inner">
                 <h1 className="mb-1">Ultimate ultimate bravery</h1>
-                <a className="btn-primary btn-xl js-scroll-trigger" href="#/minecraft-is-better-than-fortnite">enter the rift</a>
+                <a className="btn-primary btn-xl js-scroll-trigger" href="/minecraft-is-better-than-fortnite">enter the rift</a>
               </div>
             </div>
           </div>

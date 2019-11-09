@@ -7,7 +7,7 @@ import * as serviceWorker from './serviceWorker';
 import { Route, BrowserRouter as Router } from 'react-router-dom'
 
 const routing = (
-  <Router basename="#">
+  <Router>
       <Route exact path="/" component={App} />
       <Route path="/minecraft-is-better-than-fortnite" component={UltimateBravery} />
   </Router>
