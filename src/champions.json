@@ -118,5 +118,50 @@
 			"Reksai",
 			"Nocturne"
 		]
-	}
+	},
+	"Best Art": {
+		"champions": [
+			"Nami",
+			"Qiyana",
+			"Zyra",
+			"Kindred",
+			"Kogmaw",
+			"Taric",
+			"Syndra"
+		]	
+	},
+	"V": {
+		"champions": [
+			"Varus",
+			"Vayne",
+			"Veigar",
+			"Vladimir",
+			"Volibear"
+		]
+	},
+	"N": {	
+		"champions": [
+			"Neeko",
+			"Nami",
+			"Nasus",
+			"Nautilus",
+			"Nocturne"
+		]
+	},
+	"A": {
+		"champions": [
+			"Ashe",
+			"Annie",
+			"Aatrox",
+			"Azir"
+		]
+	},
+	"Leftover Squad": { 
+		"champions": [
+			"DrMundo",
+			"Leblanc",
+			"Brand",
+            "Soraka"
+		]
+	}		
 }
