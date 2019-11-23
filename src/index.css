@@ -115,6 +115,7 @@ body {
   margin-right: auto;
   border-style: solid;
   border-color: #000;
+  text-transform: capitalize;
 }
 
 .champion_list {

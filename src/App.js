@@ -7,10 +7,6 @@ class App extends React.Component {
     this.state = {};
   }
 
-  componentDidMount() {
-    document.title = "tft is so fun";
-  }
-
   render() {
     return (
       <div id="home-page">
